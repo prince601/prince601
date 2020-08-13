@@ -1,9 +1,8 @@
 # Hi there, I'm Prince Kab 👋
 
-![User Image](./img/user.jpg)
+![User Image Comming  soon](./img/usersd.jpg)
 
-
-Here are some ideas to get you started:
+## I'm still working on myself and solving problems
 
 - 🔭 I’m currently working on Security Solution Such as Criminal Registry
 - 🌱 I’m currently learning on @pluralsight In Program Called Google African Developper Scholarship
