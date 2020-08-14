@@ -10,6 +10,6 @@
 - 💬 Ask me about Web Development Trends, Javascript (ES6)
 - 📫 Contact me at: princekab601@gmail.com
 or use 
-- [*][Linkedin](https://linkedin.com/in/prince-kabasele-79a3b2167)
-- [*][Twitter](https://twitter.com/prince_kab)
+- [x][Linkedin](https://linkedin.com/in/prince-kabasele-79a3b2167)
+- [x][Twitter](https://twitter.com/prince_kab)
 
